@@ -1,0 +1,31 @@
+body{
+    width: 90%;
+    background-color: #FBF8F1;
+    margin: 5px 20px;
+    padding: 3px;
+    font-size: 18px;
+}
+hr{
+    color: brown;
+}
+a{
+    text-decoration: none;
+}
+header h1 a{
+    color: blue;
+    display: flex;
+}
+.post-entry{
+    width: 25%;
+    background-color: FFF8F3;
+    border: 7px;
+    display: inline;
+    border-color: red;
+    font-family: 'Supermercado One', cursive;
+}
+.post-entry h2 a:hover{
+    color: rgb(30, 255, 0);
+}
+.post-entry p{
+    font-family: 'Quintessential', cursive;
+}
