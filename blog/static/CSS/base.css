@@ -11,6 +11,12 @@ hr{
 a{
     text-decoration: none;
 }
+header.nav-right a{
+    border: 1px solid red;
+    border-radius: 7px;
+    padding: 5px;
+    background-color: #FFF89A;
+}
 header h1 a{
     color: blue;
     display: flex;
